@@ -1,13 +1,10 @@
-/*
-* Christmas Light Controller & Real Time Frequency Analyzer
-* based on FHT code by Open Music Labs at openmusiclabs.com
-*/
-
 /* 
-* Modified by dimecoin - 20161229
+* Christmas Light Controller & Real Time Frequency Analyzer based on FHT code by Open Music Labs at http://openmusiclabs.com
 * 
-* Orignal source: 
-*	https://dqydj.com/build-your-own-real-time-frequency-analyzer-and-christmas-light-controller/
+* Then modified by PK from : https://dqydj.com/build-your-own-real-time-frequency-analyzer-and-christmas-light-controller/
+*
+* Modified by dimecoin: https://github.com/dimecoin/XmasFHT
+*
 * Requires FHT library, from here: 
 * 	http://wiki.openmusiclabs.com/wiki/ArduinoFHT
 */
