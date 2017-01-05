@@ -18,6 +18,10 @@
 */
 </pre>
 
+## Wiring
+![wiring](https://github.com/dimecoin/XmasFHT/blob/master/wiring.jpg "Wiring")
+
+
 ## Changes
 
 * Added a auto-calibration feature to zero out line noies.
