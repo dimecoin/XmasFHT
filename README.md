@@ -21,3 +21,7 @@ Requires FHT library, from here: http://wiki.openmusiclabs.com/wiki/ArduinoFHT
 * Added a auto-calibration feature to zero out line noies.
 * Small code clean up to make it easier to maintain, but tried to keep his orignal style.
 * Added debug information, just define DEBUG.
+
+
+## Board
+![Xmas Board](https://github.com/dimecoin/XmasFHT/blob/master/xmasboard.png "Xmas Board")
